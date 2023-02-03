@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202f45&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202f45&height=120&section=header"/> -->
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c7d5e0&size=35&center=true&vCenter=true&width=1000&lines=Hola!,+soy+Ariel+Salgado;Estudiante+de+Ingeniería+Civil+en+Informática)](https://git.io/typing-svg)
@@ -25,4 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" /> &nbsp
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202f45&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202f45&height=120&section=footer"/> -->
