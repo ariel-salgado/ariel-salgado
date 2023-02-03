@@ -6,7 +6,7 @@
  
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ariel-salgado&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=tokyonight" alt="Ariel Salgado github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-salgado&layout=compact&hide_border=true&bg_color=0d1117&theme=tokyonight" alt="Ariel Salgado github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-salgado&layout=compact&hide_border=true&bg_color=0d1117&theme=tokyonight&langs_count=8" alt="Ariel Salgado github stats" />
 </div>
 
 ## 
