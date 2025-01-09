@@ -9,16 +9,6 @@
 
 ##
 
-<h3 align="center">Useless stats:</h3>
-
-<p align="center">
-    <img
-        src="https://streak-stats.demolab.com?user=ariel-salgado&theme=catppuccin-mocha"
-    />
-</p>
-
-##
-
 <h3 align="center">Some tools that i've used:</h3>
 
 <div align="center">
