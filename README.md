@@ -1,11 +1,29 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202f45&height=120&section=header"/> -->
+# 日本語が分かりません.
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c7d5e0&size=35&center=true&vCenter=true&width=1000&lines=Hola!,+soy+Ariel+Salgado;Estudiante+de+Ingeniería+Civil+en+Informática)](https://git.io/typing-svg)
---> 
- 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ariel-salgado&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=tokyonight" alt="Ariel Salgado github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-salgado&layout=compact&hide_border=true&bg_color=0d1117&theme=tokyonight&langs_count=8" alt="Ariel Salgado github stats" />
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202f45&height=120&section=footer"/>
+![fly_me_to_the_moon](./assets/evangelion.png)
+
+-   🌆 From **Rancagua**, **Chile**.
+-   🗿 **Computer Science Engineer** with a **Bachelor of Science in Engineering**.
+-   💼 Currently working as **CIO** at **RedOcean**
+-   🔎 ✨ More info about me at my **[portfolio](https://ariel-salgado.github.io/)**.
+
+##
+
+<h3 align="center">Useless stats:</h3>
+
+<p align="center">
+    <img
+        src="https://streak-stats.demolab.com?user=ariel-salgado&theme=catppuccin-mocha"
+    />
+</p>
+
+##
+
+<h3 align="center">Some tools that i've used:</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,vue,react,tailwind" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,cpp,java,python,docker&perline" />
 </div>
