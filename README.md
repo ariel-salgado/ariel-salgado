@@ -3,7 +3,7 @@
 ![fly_me_to_the_moon](./assets/evangelion.png)
 
 - 🌆 I live in **Rancagua**, **Chile**.
-- 🗿 **Computer Science Engineer** with a **Bachelor of Science in Engineering**.
+- 🗿 **Computer Science Engineer** with a **Bachelor’s degree in engineering sciences**.
 - 💼 Currently working as **CIO** at **RedOcean**.
 - 🔎 ✨ More info about me at my **[portfolio](https://ariel-salgado.github.io/)**.
 
