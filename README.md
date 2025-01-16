@@ -2,21 +2,10 @@
 
 ![fly_me_to_the_moon](./assets/evangelion.png)
 
-- 🌆 From **Rancagua**, **Chile**.
+- 🌆 I live in **Rancagua**, **Chile**.
 - 🗿 **Computer Science Engineer** with a **Bachelor of Science in Engineering**.
-- 💼 Currently working as **CIO** at **RedOcean**
+- 💼 Currently working as **CIO** at **RedOcean**.
 - 🔎 ✨ More info about me at my **[portfolio](https://ariel-salgado.github.io/)**.
-
-##
-
-<h3 align="center">Some tools that i've used:</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,vue,react,tailwind" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,cpp,java,python,docker&perline" />
-</div>
 
 ##
 
@@ -32,3 +21,14 @@
     </td>
   </tr>
 </table>
+
+##
+
+<h3 align="center">Some tools that i've used:</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,vue,react,tailwind" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,cpp,java,python,docker&perline" />
+</div>
