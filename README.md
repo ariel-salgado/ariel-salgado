@@ -7,6 +7,7 @@
 - 💼 Currently working as **CIO** at **RedOcean**.
 - 🔎 ✨ More info about me at my **[portfolio](https://ariel-salgado.github.io/)**.
 
+<!--
 ##
 
 <h3 align="center">Some useless stats</h3>
@@ -21,6 +22,7 @@
     </td>
   </tr>
 </table>
+-->
 
 ##
 
