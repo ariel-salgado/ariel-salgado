@@ -1,8 +1,8 @@
-# 日本語が分かりません.
+# Hi!
 
 ![fly_me_to_the_moon](./assets/evangelion.png)
 
-- 🌆 I live in **Rancagua**, **Chile**.
+- 🌆 I live in **Chile**.
 - 🗿 **Computer Science Engineer** with a **Bachelor’s degree in engineering sciences**.
 - 💼 Currently working as **CIO** at **RedOcean**.
 - 🔎 ✨ More info about me at my **[portfolio](https://ariel-salgado.github.io/)**.
