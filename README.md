@@ -1,36 +1,14 @@
-# Hi!
+# Hello there 👋
 
-![fly_me_to_the_moon](./assets/evangelion.png)
-
-- 🌆 I live in **Chile**.
-- 🗿 **Computer Science Engineer** with a **Bachelor’s degree in engineering sciences**.
-- 💼 Currently working as **CIO** at **RedOcean**.
-- 🔎 ✨ More info about me at my **[portfolio](https://ariel-salgado.github.io/)**.
-
-<!--
-##
-
-<h3 align="center">Some useless stats</h3>
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=ariel-salgado&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-salgado&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&langs_count=10&hide_title=true" />
-    </td>
-  </tr>
-</table>
--->
+<div style="width: 100%; height: 12.5rem;">
+  <img src="assets/evangelion.png" alt="Fly me to the moon" style="width: 100%; object-fit: cover;" />
+</div>
 
 ##
 
-<h3 align="center">Some tools that i've used:</h3>
+- I live in Chile
+- Computer Science Engineer
+- FullStack Engineer at [OnStageObra](https://onstageobra.cl/)
+- More info about me at my [portfolio](https://ariel-salgado.github.io/)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,vue,react,tailwind" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,cpp,java,python,docker&perline" />
-</div>
+##
