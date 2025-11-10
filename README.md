@@ -1,8 +1,6 @@
 # Hello there 👋
 
-<div style="width: 100%; height: 12.5rem;">
-  <img src="assets/evangelion.png" alt="Fly me to the moon" style="width: 100%; object-fit: cover;" />
-</div>
+<img src="assets/evangelion_cropped.png" alt="Fly me to the moon" />
 
 ##
 
