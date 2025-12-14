@@ -5,7 +5,6 @@
 ##
 
 - Computer Science Engineer
-- FullStack Engineer at [OnStageObra](https://onstageobra.cl/)
 - More info about me at my [portfolio](https://ariel-salgado.github.io/)
 
 ##
